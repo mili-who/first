@@ -1,3 +1,6 @@
 aeroplane
 balloon
 caterpillar
+dandelion
+elephant
+fancy
